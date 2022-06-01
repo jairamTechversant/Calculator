@@ -1,0 +1,40 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width:100%;
+  border-radius:10px;
+  max-width: 300px;
+  padding: 20px;
+}
+.input-box,input:focus {
+  width:90%;
+  height: 40px;
+  border:none;
+  padding: 20px 10px; 
+  font-size: 30px;
+  outline:none;
+  text-align:right;
+}
+.btn-style{
+  width: 55px;
+  height: 40px;
+  margin-right:10px;
+  margin-bottom:10px;
+  border-radius: 17px;
+  border: 0;
+  color:#000000;
+  font-size: 14px;
+}
+.mr-rmv{
+  margin-right:0px !important;
+}
+.num-align{
+  display:flex;
+}
+.color{
+  background-color: aqua;
+}
+.clr-add{
+  background-color: #FFA500;
+  color:white;
+}
